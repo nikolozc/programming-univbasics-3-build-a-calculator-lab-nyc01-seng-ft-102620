@@ -19,5 +19,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  return 
+  return "It's Dangerous To Go Alone! Take This."
 end
